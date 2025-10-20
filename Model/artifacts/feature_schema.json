@@ -1,0 +1,19 @@
+{
+  "feature_columns": [
+    "Marketing_Spend",
+    "Wastage_Units",
+    "Price",
+    "Shelf_Life_Days",
+    "Store_Size",
+    "Cold_Storage_Capacity",
+    "Supply_Capacity",
+    "Avg_Temperature",
+    "Rainfall",
+    "Week_sin",
+    "Store_ID_504",
+    "Store_ID_509",
+    "Product_Category_Beverages",
+    "Product_Category_Dairy",
+    "Product_Category_Meat"
+  ]
+}
